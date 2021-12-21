@@ -32,7 +32,7 @@ document.getElementById("image-cer").innerHTML = cer;
 let lnk = "";
 let textLnk = ["ผลงานหนังสั้น เรื่อง Za-was-dee", "ผลงานหนังสั้น เรื่อง คนดีสำคัญกว่าทุกสิ่ง", "เจ้าของเพจ Tai Jang", "แอดมิน เพจ Kidsst.2product", "Intro krujar channel"]
 let textLnk2 = ["ประกวดหนังสั้นในรายการ ไทยดีมีมารยาท ชื่อเรื่อง Za-was-dee รับหน้าที่ ตัดต่อ เรียบเรียงเนื้อเรื่อง ชนะรางวัล Poppular Vote ได้เงินรางวัล 10,000บาท", "ผลงานหนังสั้น เรื่อง คนดีสำคัญกว่าทุกสิ่ง รับหน้าที่ในการถ่ายทำ ตัดต่อและเรียบเรียงเนื้อหาของเรื่อง", "เป็นผู้ดูแลเพจเฟซบุ๊ก Tai Jang เป็นเพจที่จัดทำเพือรวบรวมความทรงจำของเพื่อน ๆ น้อง ๆในโรงเรียนสุราษฎร์ธานี ๒ ", "แอดมินผู้ดูแล เพจ Kidsst.2product เป็นเพจที่จำทำเพื่อลงผลงานภาพยนตร์สั้น", "ได้รับทำ intro คลิปวิดีโอประจำช่อง Krujar channelด้วยโปรแกรม Adobe after effects"]
-let link = ["https://seeme.me/ch/thaid/qLOzA6", "https://www.youtube.com/watch?v=KKDbDDdvU_k", "https://www.facebook.com/TAIJANGNI01", "https://www.facebook.com/Kidsst.2production", "https://drive.google.com/drive/u/0/folders/13q_28rWDll9ZgLPXR9EEsgVF3SmrIbQw"]
+let link = ["https://seeme.me/ch/thaid/qLOzA6", "https://www.youtube.com/watch?v=KKDbDDdvU_k", "https://www.facebook.com/TAIJANGNI01", "https://www.facebook.com/Kidsst.2production", "https://drive.google.com/file/d/1oup5AKgvF4GZmEsPEBkq5iAYwW2I2CTq/view?usp=sharing"]
 for (let i = 1; i <= 5; i++) {
     lnk += `
         <div class="col-md-6 mx-auto p-3">
